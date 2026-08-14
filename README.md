@@ -1,54 +1,41 @@
-![Paul Revanth Madasu - IT Support and Cloud Operations](assets/banner.svg)
+# Paul Revanth Madasu — Portfolio Index
 
-# Hello, I'm Paul Revanth Madasu
+IT, cloud, and software engineer focused on reliable support operations, secure infrastructure, and full-stack systems that make technical decisions easy to inspect. This index separates product-facing work from infrastructure and security evidence so a reviewer can reach the right project quickly.
 
-I am an Information Technology professional and M.S. candidate focused on IT support, cloud operations, networking, systems administration, and application support. My work emphasizes structured troubleshooting: reproduce the issue, preserve evidence, isolate the root cause, make the smallest safe change, verify recovery, and document the outcome.
+[![GitHub](https://img.shields.io/badge/GitHub-paulrevanthpersonal--lab-181717?logo=github)](https://github.com/paulrevanthpersonal-lab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Revanth_Madasu-0A66C2?logo=linkedin)](https://www.linkedin.com/in/madasu-paul-revanth-044896215/) [![Email](https://img.shields.io/badge/Email-Paulrevanthpersonal%40gmail.com-5F6368?logo=gmail)](mailto:Paulrevanthpersonal@gmail.com)
 
-I completed a Cloud Engineer internship at Infosys and build practical portfolio systems with Azure, Linux, TCP/IP/DNS, IAM, REST APIs, Python, Bash, Docker, Terraform, SQL, and JavaScript.
+## About
 
-[LinkedIn](https://www.linkedin.com/in/madasu-paul-revanth-044896215/) · [Email](mailto:Paulrevanthpersonal@gmail.com) · Sedona, Arizona
+I am an M.S. Information Technology candidate at Northern Arizona University with a Cloud Engineer internship at Infosys and a B.Tech in Computer Science. My work combines structured troubleshooting, cloud operations, networking, security controls, REST APIs, automation, and accessible interface engineering; each repository below includes tests, documentation, and reproducible setup.
 
-## Featured IT engineering
+## Skills Snapshot
 
-### [CloudAtlas SupportOS](https://github.com/paulrevanthpersonal-lab/cloudatlas-supportos)
+- **Languages:** Python, JavaScript, Java, SQL, Bash/Shell, C, C++
+- **Frontend/Frameworks:** HTML5, CSS3, JavaScript, responsive UI, accessibility, Node.js, Express.js
+- **Backend/Databases:** FastAPI, REST APIs, MySQL, MongoDB, SQLite, DBMS
+- **Cloud/Infra:** Microsoft Azure, Linux, Docker, Terraform, Infrastructure as Code, GitHub Actions, CI/CD, system administration
+- **Security/Networking:** IAM, RBAC, Conditional Access, TCP/IP, DNS, log analysis, incident management, root-cause analysis, application support
+- **Certifications:** Microsoft Azure Fundamentals; Microsoft Azure AI Fundamentals; Microsoft Azure Developer Associate (expired March 2025); Rice University Parallel, Concurrent, and Distributed Programming in Java Specialization
 
-Working FastAPI and SQLite support-operations platform with an enterprise Kanban workspace, incident timeline, SLA analytics, searchable SOP library, typed REST API, tests, Docker workflow, and CI.
+## Projects — Web Technology
 
-### [Cloud Support Operations Lab](https://github.com/paulrevanthpersonal-lab/cloud-support-operations-lab)
+| Project | Tech Stack | Description | Live Demo | Repo |
+|---|---|---|---|---|
+| Lumberjacks Marketplace | Node.js, REST, JavaScript, JSON persistence | Expanded my original ITC505 store into a 36-product marketplace with saved carts, stock-validated checkout, order history, and operations metrics. | [Open](https://paulrevanthpersonal-lab.github.io/lumberjacks-marketplace/) | [Code](https://github.com/paulrevanthpersonal-lab/lumberjacks-marketplace) |
+| FreshMart Commerce | Node.js, REST, JavaScript, JSON persistence | Delivers a 40-product accessible grocery flow with delivery slots, server-owned totals, inventory validation, and persisted test orders. | [Open](https://paulrevanthpersonal-lab.github.io/freshmart-commerce/) | [Code](https://github.com/paulrevanthpersonal-lab/freshmart-commerce) |
+| Neon Circuit — Lights Out | JavaScript solver, Node.js, REST | Solves deterministic 4×4–6×6 puzzles exactly, serves daily challenges, validates scores, and maintains a local leaderboard. | [Play](https://paulrevanthpersonal-lab.github.io/neon-circuit/) | [Code](https://github.com/paulrevanthpersonal-lab/neon-circuit) |
+| Wildpath Adventure | JavaScript graph engine, Node.js, REST | Runs a validated 32-scene branching story with resources, inventory, resumable saves, path summaries, and nine endings. | [Play](https://paulrevanthpersonal-lab.github.io/wildpath-adventure/) | [Code](https://github.com/paulrevanthpersonal-lab/wildpath-adventure) |
 
-Azure and Linux documentation lab with a reviewable topology, expandable runbooks, safe diagnostic tooling, redacted evidence with checksums, Terraform, troubleshooting log, and competency map. **[Live dashboard](https://paulrevanthpersonal-lab.github.io/cloud-support-operations-lab/)**
+## Projects — IT / Cloud / Security / Network
 
-### [SentinelCore Zero Trust](https://github.com/paulrevanthpersonal-lab/sentinelcore-zero-trust)
+| Project | Tech Stack | Description | Live Demo | Repo |
+|---|---|---|---|---|
+| CloudAtlas SupportOS | Python, FastAPI, SQLite, Docker | Organizes 30 support cases, evidence timelines, SLA state, and 18 runbooks in a tested incident-operations workspace. | [Run locally](https://github.com/paulrevanthpersonal-lab/cloudatlas-supportos#9-quick-start) | [Code](https://github.com/paulrevanthpersonal-lab/cloudatlas-supportos) |
+| Cloud Operations Lab | Azure, Terraform, Bash, Python, SQLite | Provides 30 guided labs and 30 incident patterns with safe diagnostics, persisted validation evidence, infrastructure checks, and recovery criteria. | [Open](https://paulrevanthpersonal-lab.github.io/cloud-ops-lab/) | [Code](https://github.com/paulrevanthpersonal-lab/cloud-ops-lab) |
+| SentinelCore Zero Trust | Node.js, Entra ID models, KQL, NIST SP 800-207 | Computes posture from 30 controls and 30 endpoints, exercises 12 authorized attack paths, and records local simulation evidence. | [Open](https://paulrevanthpersonal-lab.github.io/sentinelcore-zero-trust/) | [Code](https://github.com/paulrevanthpersonal-lab/sentinelcore-zero-trust) |
 
-Graduate capstone reference platform aligned with NIST SP 800-207, including demo authentication, modeled executive posture, controlled attack simulations, policy artifacts, KQL detections, incident playbooks, and automated control validation. **[Live security cockpit](https://paulrevanthpersonal-lab.github.io/sentinelcore-zero-trust/)**
+## Contact
 
-## Original web-technology builds
-
-- **[Aster & Loom Storefront](https://github.com/paulrevanthpersonal-lab/atelier-storefront)** — editorial commerce evolved from my original storefront coursework, with product views, persistent cart, mocked checkout, original artwork, and tests. **[Live demo](https://paulrevanthpersonal-lab.github.io/atelier-storefront/)**
-- **[FreshMart Commerce](https://github.com/paulrevanthpersonal-lab/freshmart-commerce)** — accessible grocery cart evolved from my original FreshMart application, with testable pricing rules, persisted quantities, promotions, and transparent totals. **[Live demo](https://paulrevanthpersonal-lab.github.io/freshmart-commerce/)**
-- **[Lights Out Studio](https://github.com/paulrevanthpersonal-lab/lights-out-studio)** — replayable puzzle evolved from my original final project, with solvable generation, difficulty, timer, hints, best scores, and tested rules. **[Play](https://paulrevanthpersonal-lab.github.io/lights-out-studio/)**
-- **[Wildpath Adventure](https://github.com/paulrevanthpersonal-lab/wildpath-adventure)** — branching narrative evolved from my original mid-term project, with a validated graph, resources, persistent state, multiple endings, and tests. **[Play](https://paulrevanthpersonal-lab.github.io/wildpath-adventure/)**
-
-## Core toolkit
-
-```text
-Support & operations  Incident management · SLA · RCA · log analysis · SOPs · UAT
-Cloud & DevOps        Azure · Docker · Terraform/IaC · GitHub Actions · CI/CD · Bash
-Systems & network     Linux · TCP/IP · DNS · IAM · RBAC · MFA · Conditional Access
-Software & data       Python · FastAPI · REST APIs · JavaScript · Node.js · SQL · MongoDB
-```
-
-## Certifications
-
-- Microsoft Certified: Azure AI Fundamentals — issued January 2024
-- Microsoft Certified: Azure Fundamentals — issued November 2022
-- Microsoft Certified: Azure Developer Associate — issued March 2023, expired March 2025
-- Parallel, Concurrent, and Distributed Programming in Java Specialization — Rice University, October 2023
-
-## How I build
-
-Every featured repository includes a substantial README, clear implementation boundaries, architecture or design notes, automated checks, desktop/mobile screenshots, an interview guide, and reproducible local instructions. Modeled data and reference implementations are labeled so reviewers can distinguish working code from live production deployment.
-
-## Current direction
-
-I am seeking IT Support, Cloud Support, Cloud Operations, Network Support, Systems Administration, Application Support, and junior Cloud/DevOps opportunities where disciplined diagnosis and clear communication matter.
+- **Email:** [Paulrevanthpersonal@gmail.com](mailto:Paulrevanthpersonal@gmail.com)
+- **LinkedIn:** [linkedin.com/in/madasu-paul-revanth-044896215](https://www.linkedin.com/in/madasu-paul-revanth-044896215/)
+- **GitHub:** [github.com/paulrevanthpersonal-lab](https://github.com/paulrevanthpersonal-lab)
