@@ -16,18 +16,18 @@ Working FastAPI and SQLite support-operations platform with an enterprise Kanban
 
 ### [Cloud Support Operations Lab](https://github.com/paulrevanthpersonal-lab/cloud-support-operations-lab)
 
-Azure and Linux documentation lab with a reviewable topology, expandable runbooks, safe diagnostic tooling, redacted evidence with checksums, Terraform, troubleshooting log, and competency map.
+Azure and Linux documentation lab with a reviewable topology, expandable runbooks, safe diagnostic tooling, redacted evidence with checksums, Terraform, troubleshooting log, and competency map. **[Live dashboard](https://paulrevanthpersonal-lab.github.io/cloud-support-operations-lab/)**
 
 ### [SentinelCore Zero Trust](https://github.com/paulrevanthpersonal-lab/sentinelcore-zero-trust)
 
-Graduate capstone reference platform aligned with NIST SP 800-207, including demo authentication, modeled executive posture, controlled attack simulations, policy artifacts, KQL detections, incident playbooks, and automated control validation.
+Graduate capstone reference platform aligned with NIST SP 800-207, including demo authentication, modeled executive posture, controlled attack simulations, policy artifacts, KQL detections, incident playbooks, and automated control validation. **[Live security cockpit](https://paulrevanthpersonal-lab.github.io/sentinelcore-zero-trust/)**
 
 ## Original web-technology builds
 
-- **[Aster & Loom Storefront](https://github.com/paulrevanthpersonal-lab/atelier-storefront)** — editorial commerce evolved from my original storefront coursework, with product views, persistent cart, mocked checkout, original artwork, and tests.
-- **[FreshMart Commerce](https://github.com/paulrevanthpersonal-lab/freshmart-commerce)** — accessible grocery cart evolved from my original FreshMart application, with testable pricing rules, persisted quantities, promotions, and transparent totals.
-- **[Lights Out Studio](https://github.com/paulrevanthpersonal-lab/lights-out-studio)** — replayable puzzle evolved from my original final project, with solvable generation, difficulty, timer, hints, best scores, and tested rules.
-- **[Wildpath Adventure](https://github.com/paulrevanthpersonal-lab/wildpath-adventure)** — branching narrative evolved from my original mid-term project, with a validated graph, resources, persistent state, multiple endings, and tests.
+- **[Aster & Loom Storefront](https://github.com/paulrevanthpersonal-lab/atelier-storefront)** — editorial commerce evolved from my original storefront coursework, with product views, persistent cart, mocked checkout, original artwork, and tests. **[Live demo](https://paulrevanthpersonal-lab.github.io/atelier-storefront/)**
+- **[FreshMart Commerce](https://github.com/paulrevanthpersonal-lab/freshmart-commerce)** — accessible grocery cart evolved from my original FreshMart application, with testable pricing rules, persisted quantities, promotions, and transparent totals. **[Live demo](https://paulrevanthpersonal-lab.github.io/freshmart-commerce/)**
+- **[Lights Out Studio](https://github.com/paulrevanthpersonal-lab/lights-out-studio)** — replayable puzzle evolved from my original final project, with solvable generation, difficulty, timer, hints, best scores, and tested rules. **[Play](https://paulrevanthpersonal-lab.github.io/lights-out-studio/)**
+- **[Wildpath Adventure](https://github.com/paulrevanthpersonal-lab/wildpath-adventure)** — branching narrative evolved from my original mid-term project, with a validated graph, resources, persistent state, multiple endings, and tests. **[Play](https://paulrevanthpersonal-lab.github.io/wildpath-adventure/)**
 
 ## Core toolkit
 
