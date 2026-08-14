@@ -6,14 +6,14 @@ IT, cloud, and software engineer focused on reliable support operations, secure 
 
 ## About
 
-I am an M.S. Information Technology candidate at Northern Arizona University with a Cloud Engineer internship at Infosys and a B.Tech in Computer Science. My work combines structured troubleshooting, cloud operations, networking, security controls, explainable machine learning, REST APIs, automation, and accessible interface engineering; each repository below includes tests, documentation, and reproducible setup.
+I am an M.S. Information Technology candidate at Northern Arizona University with Cloud Engineering and Technical Support internships at Infosys, Tata Consultancy Services, and Larsen & Toubro, plus a B.Tech in Computer Science. My work combines structured troubleshooting, cloud operations, networking, security controls, explainable machine learning, computer vision, REST APIs, automation, and accessible interface engineering; each repository below includes tests, documentation, and reproducible setup.
 
 ## Skills Snapshot
 
 - **Languages:** Python, JavaScript, Java, SQL, Bash/Shell, C, C++
 - **Frontend/Frameworks:** HTML5, CSS3, JavaScript, responsive UI, accessibility, Node.js, Express.js
 - **Backend/Databases:** FastAPI, REST APIs, MySQL, MongoDB, SQLite, DBMS
-- **Machine Learning:** scikit-learn, TF-IDF, logistic regression, model evaluation, explainable classification
+- **Machine Learning & Vision:** scikit-learn, OpenCV, TF-IDF, logistic regression, Random Forest, feature extraction, model evaluation, explainable classification
 - **Cloud/Infra:** Microsoft Azure, Linux, Docker, Terraform, Infrastructure as Code, GitHub Actions, CI/CD, system administration
 - **Security/Networking:** IAM, RBAC, Conditional Access, TCP/IP, DNS, log analysis, incident management, root-cause analysis, application support
 - **Certifications:** Microsoft Azure Fundamentals; Microsoft Azure AI Fundamentals; Microsoft Azure Developer Associate (expired March 2025); Rice University Parallel, Concurrent, and Distributed Programming in Java Specialization
@@ -31,6 +31,7 @@ I am an M.S. Information Technology candidate at Northern Arizona University wit
 
 | Project | Tech Stack | Description | Live Demo | Repo |
 |---|---|---|---|---|
+| VisionForge Inspection | Python, OpenCV, FastAPI, scikit-learn | Reconstructs my manufacturing defect-detection project with five visual classes, annotated evidence, confidence-aware review, a four-view operator console, 10 tests, Docker, and CI. | [Run locally](https://github.com/paulrevanthpersonal-lab/visionforge-inspection#quick-start) | [Code](https://github.com/paulrevanthpersonal-lab/visionforge-inspection) |
 | TriageFlow Intelligence | Python, FastAPI, scikit-learn, SQLite | Reconstructs my B.Tech help-desk classifier with 8 categories, 4 priorities, explainable confidence, human review, feedback evidence, tests, and CI. | [Run locally](https://github.com/paulrevanthpersonal-lab/triageflow-intelligence#quick-start) | [Code](https://github.com/paulrevanthpersonal-lab/triageflow-intelligence) |
 | CloudAtlas SupportOS | Python, FastAPI, SQLite, Docker | Organizes 30 support cases, evidence timelines, SLA state, and 18 runbooks in a tested incident-operations workspace. | [Run locally](https://github.com/paulrevanthpersonal-lab/cloudatlas-supportos#9-quick-start) | [Code](https://github.com/paulrevanthpersonal-lab/cloudatlas-supportos) |
 | Cloud Operations Lab | Azure, Terraform, Bash, Python, SQLite | Provides 30 guided labs and 30 incident patterns with safe diagnostics, persisted validation evidence, infrastructure checks, and recovery criteria. | [Open](https://paulrevanthpersonal-lab.github.io/cloud-ops-lab/) | [Code](https://github.com/paulrevanthpersonal-lab/cloud-ops-lab) |
