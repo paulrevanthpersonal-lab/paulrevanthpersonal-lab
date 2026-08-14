@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Paul Revanth Madasu - IT Support and Cloud Operations</title><desc id="desc">Dark navy professional banner.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#08111e"/><stop offset="1" stop-color="#102a43"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#39ff88"/></linearGradient></defs>
+  <rect width="1280" height="300" fill="url(#bg)"/><g opacity=".16" stroke="#7dd3fc"><path d="M0 70H260l45 45h180l65-65h190l54 54h210l62-62h214"/><path d="M0 238h190l60-60h210l52 52h170l80-80h180l42 42h116"/></g>
+  <rect x="68" y="58" width="70" height="70" rx="16" fill="none" stroke="url(#line)" stroke-width="3"/><text x="103" y="104" text-anchor="middle" fill="#eaf6ff" font-family="monospace" font-size="24" font-weight="700">PR</text>
+  <text x="172" y="88" fill="#7dd3fc" font-family="monospace" font-size="13" letter-spacing="3">IT SUPPORT / CLOUD OPERATIONS / NETWORK ENGINEERING</text><text x="172" y="145" fill="#fff" font-family="Arial" font-size="42" font-weight="700">Paul Revanth Madasu</text><text x="172" y="186" fill="#b8c7d9" font-family="Arial" font-size="19">Evidence-driven support, reliable cloud systems, and explainable security.</text><rect x="172" y="222" width="330" height="3" fill="url(#line)"/>
+</svg>
