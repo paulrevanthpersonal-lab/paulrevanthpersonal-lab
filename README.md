@@ -40,5 +40,5 @@ I completed my M.S. in Information Technology at Northern Arizona University in 
 ## Contact
 
 - **Email:** [Paulrevanthpersonal@gmail.com](mailto:Paulrevanthpersonal@gmail.com)
-- **LinkedIn:** [linkedin.com/in/paul-revanth-madasu-044896215](https://www.linkedin.com/in/madasu-paul-revanth-044896215/)
+- **LinkedIn:** [linkedin.com/in/paul-revanth-madasu-044896215](https://www.linkedin.com/in/paul-revanth-madasu-044896215/)
 - **GitHub:** [github.com/paulrevanthpersonal-lab](https://github.com/paulrevanthpersonal-lab)
