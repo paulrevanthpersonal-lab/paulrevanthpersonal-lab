@@ -1,12 +1,12 @@
 # Paul Revanth Madasu — Portfolio Index
 
-IT, cloud, and software engineer focused on reliable support operations, secure infrastructure, and full-stack systems that make technical decisions easy to inspect. This index separates product-facing work from infrastructure and security evidence so a reviewer can reach the right project quickly.
+Cloud Support Engineer focused on reliable support operations, Microsoft Azure, Linux, networking, IAM/RBAC, incident response, automation, and recovery verification. This portfolio provides tested projects, runbooks, and operational evidence for recruiters and technical reviewers.
 
-[![GitHub](https://img.shields.io/badge/GitHub-paulrevanthpersonal--lab-181717?logo=github)](https://github.com/paulrevanthpersonal-lab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Revanth_Madasu-0A66C2?logo=linkedin)](https://www.linkedin.com/in/madasu-paul-revanth-044896215/) [![Email](https://img.shields.io/badge/Email-Paulrevanthpersonal%40gmail.com-5F6368?logo=gmail)](mailto:Paulrevanthpersonal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-paulrevanthpersonal--lab-181717?logo=github)](https://github.com/paulrevanthpersonal-lab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Revanth_Madasu-0A66C2?logo=linkedin)](https://www.linkedin.com/in/paul-revanth-madasu-044896215/) [![Email](https://img.shields.io/badge/Email-Paulrevanthpersonal%40gmail.com-5F6368?logo=gmail)](mailto:Paulrevanthpersonal@gmail.com)
 
 ## About
 
-I am an M.S. Information Technology candidate at Northern Arizona University with Cloud Engineering and Technical Support internships at Infosys, Tata Consultancy Services, and Larsen & Toubro, plus a B.Tech in Computer Science. My work combines structured troubleshooting, cloud operations, networking, security controls, explainable machine learning, computer vision, REST APIs, automation, and accessible interface engineering; each repository below includes tests, documentation, and reproducible setup.
+I completed my M.S. in Information Technology at Northern Arizona University in August 2026 after earning a B.Tech in Computer Science. My experience includes a Cloud Support Engineer internship at Areksoft Technologies and Technical Support Engineer internships at Tata Consultancy Services and Larsen & Toubro. I focus on structured troubleshooting, cloud operations, networking, identity and access management, incident triage, root-cause analysis, technical documentation, automation, and recovery verification. Each featured repository includes tests, documentation, and reproducible setup.
 
 ## Skills Snapshot
 
